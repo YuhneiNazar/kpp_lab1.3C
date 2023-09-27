@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "\u041Fi\u0441\u043D\u044F 1",
+    "Genre": "\u0420\u043E\u043A",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C 3",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u0442 \u043F\u0456\u0441\u043D\u0456 1",
+    "CreationDate": "2023-09-27T22:14:17.4268461+03:00",
+    "Duration": 4.5,
+    "Format": "MP3",
+    "Ratings": {}
+  },
+  {
+    "Title": "\u041Fi\u0441\u043D\u044F 3",
+    "Genre": "\u041F\u043E\u043F",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C 2",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u0442 \u043F\u0456\u0441\u043D\u0456 3",
+    "CreationDate": "2023-09-27T22:14:17.4405869+03:00",
+    "Duration": 3.2,
+    "Format": "WAV",
+    "Ratings": {}
+  }
+]

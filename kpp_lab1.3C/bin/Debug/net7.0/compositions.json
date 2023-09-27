@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "\u041F?\u0441\u043D\u044F 1",
+    "Genre": "\u0420\u043E\u043A",
+    "Artist": "\u0412\u0438\u043A\u043D\u043E\u0432\u0435\u0446\u044C 1",
+    "Lyrics": "1",
+    "CreationDate": "2022-02-10T00:00:00",
+    "Duration": "02:30:00",
+    "Format": "mp3",
+    "Rating": 3.5
+  },
+  {
+    "Name": "\u041F?\u0441\u043D\u044F 2",
+    "Genre": "\u0420\u0435\u043F",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C 2",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u0442 2",
+    "CreationDate": "2019-07-10T00:00:00",
+    "Duration": "04:20:00",
+    "Format": "mp3",
+    "Rating": 4.2
+  },
+  {
+    "Name": "\u041F?\u0441\u043D\u044F 3",
+    "Genre": "\u041F\u043E\u043F",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C 3",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u0442 3",
+    "CreationDate": "2021-02-20T00:00:00",
+    "Duration": "03:10:00",
+    "Format": "WAW",
+    "Rating": 4.5
+  }
+]
